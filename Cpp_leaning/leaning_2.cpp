@@ -167,7 +167,7 @@ void displayBoard() {
         cout << endl;
     }
 }
-
+//Ö÷º¯Êý
 int main() {
     initGame();
     drawBlock(currentBlock);
